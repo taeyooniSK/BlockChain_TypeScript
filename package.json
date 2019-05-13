@@ -1,0 +1,14 @@
+{
+  "name": "BlockChain_TypeScript",
+  "version": "1.0.0",
+  "description": "Learning TypeScript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/taeyooniSK/BlockChain_TypeScript.git",
+  "author": "Tae-yoon <yeotaeyoon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
